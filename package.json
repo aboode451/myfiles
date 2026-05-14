@@ -1,0 +1,9 @@
+{
+  "name": "abd-file-v1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "create-abd-cli-toolkit": "index.js"
+  },
+  "license": "MIT"
+}
